@@ -2,23 +2,17 @@
     "usuarios": [
         {
             "id": 1,
-            "tdoc": "DNI",
-            "doc": "123456",
             "email": "luis@gmail.com",
             "username": "Luis",
             "placa": "ABC-123",
-            "modelo": "Chevrolet Sail 2012",
-            "celular": "123456789"
+            "modelo": "Chevrolet Sail 2012"
         },
         {
             "id": 2,
-            "tdoc": "CE",
-            "doc": "654321",
             "email": "maria@gmail.com",
             "username": "Maria",
             "placa": "AAA-321",
-            "modelo": "Kia Sorento 2017",
-            "celular": "987654321"
+            "modelo": "Kia Sorento 2017"
         }
     ]
 }
